@@ -1,0 +1,64 @@
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\appsettings.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.exe
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.deps.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.runtimeconfig.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.pdb
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.csproj.AssemblyReference.cache
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.AssemblyInfoInputs.cache
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.AssemblyInfo.cs
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.Cafe.Menu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.build.Cafe.Menu.props
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cafe.Menu.props
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cafe.Menu.props
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\scopedcss\bundle\Cafe.Menu.styles.css
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.csproj.CopyComplete
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\refint\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.pdb
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.genruntimeconfig.cache
+C:\Projects\Learn-Azure\Chapter 1\MyCafe\Cafe.Menu\obj\Debug\net6.0\ref\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\appsettings.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.exe
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.deps.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.runtimeconfig.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Cafe.Menu.pdb
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.csproj.AssemblyReference.cache
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.AssemblyInfoInputs.cache
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.AssemblyInfo.cs
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.csproj.CoreCompileInputs.cache
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.Cafe.Menu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.build.Cafe.Menu.props
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cafe.Menu.props
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cafe.Menu.props
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\scopedcss\bundle\Cafe.Menu.styles.css
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.csproj.CopyComplete
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\refint\Cafe.Menu.dll
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.pdb
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\Cafe.Menu.genruntimeconfig.cache
+C:\Projects\Learn-Azure\Exercise1\Cafe.Menu\obj\Debug\net6.0\ref\Cafe.Menu.dll
